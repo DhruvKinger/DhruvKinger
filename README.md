@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[](https://previews.123rf.com/images/prettyvectors/prettyvectors1702/prettyvectors170200022/71079316-young-programmer-man-character-coding-vector-flat-cartoon-illustration.jpg)
+![](https://previews.123rf.com/images/prettyvectors/prettyvectors1702/prettyvectors170200022/71079316-young-programmer-man-character-coding-vector-flat-cartoon-illustration.jpg)
 <!--
 **DhruvKinger/DhruvKinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
