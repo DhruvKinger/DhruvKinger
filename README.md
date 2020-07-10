@@ -1,6 +1,6 @@
 ### Hi there 👋
- 💬 Ask me anything about Azure Cloud & Dotnet 😄
- 🔭 I’m currently working on Microsoft Azure Certifications.
+- 💬 Ask me anything about Azure Cloud & Dotnet 😄
+- 🔭 I’m currently working on Microsoft Azure Certifications.
 
 <div align="center">
   <img src="https://github.com/DhruvKinger/DhruvKinger/blob/master/CloudDev.jpg"></div>
