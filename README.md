@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<div align="center">![](https://github.com/DhruvKinger/DhruvKinger/blob/master/CloudDev.jpg)</div>
+<div align="center">
+  <img src="https://github.com/DhruvKinger/DhruvKinger/blob/master/CloudDev.jpg"></div>
 <!--
 **DhruvKinger/DhruvKinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
