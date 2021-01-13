@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 Ask me anything on Azure & Dotnet 😄
+- 💬 Ask me anything on Azure,Xamarian & Dotnet 😄
 - 🔭 I’m currently working on Microsoft Azure Certifications.
 
 <div align="center">
