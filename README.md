@@ -2,9 +2,9 @@
 - 💬 Ask me anything on Azure,Xamarian & Dotnet 😄
 - 🔭 I’m currently working on Microsoft Azure Certifications.
 
-I am a Udacity Mentor & Project Reviewer and a Software Engineer at Aplos Global Ltd.
+I am a Udacity Mentor, Tutor & Project Reviewer and a Software Engineer at ThrivePass.
 
-While working at Udacity I mentor students enrolled in Developer for Microsoft Azure, Hybrid Cloud(Nutanix), and RPA (Robotic Process Automation) Nanodegree.
+While working at Udacity I mentor students enrolled in Developer for Microsoft Azure, Azure Cloud Architect, Hybrid Cloud(Nutanix), and RPA (Robotic Process Automation) Nanodegree.
 
 I enjoy the most working at Udacity in Mentorship Role because I interact with students of diff Countries,cultures. I also conduct some sessions for them as per the requirements.
 
