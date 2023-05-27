@@ -4,11 +4,11 @@
 
 I am a Udacity Mentor, Tutor & Project Reviewer and a Software Engineer at ThrivePass.
 
-While working at Udacity I mentor students enrolled in Developer for Microsoft Azure, Azure Cloud Architect, Hybrid Cloud(Nutanix), and RPA (Robotic Process Automation) Nanodegree.
+While working at Udacity, I mentor students enrolled in Developer for Microsoft Azure, Azure Cloud Architect, Hybrid Cloud(Nutanix), and RPA (Robotic Process Automation) Nanodegree.
 
-I enjoy the most working at Udacity in Mentorship Role because I interact with students of diff Countries,cultures. I also conduct some sessions for them as per the requirements.
+I enjoy working at Udacity in my Mentorship Role because I interact with students of different countries, cultures, etc. I also conduct some sessions for them as per the requirements.
 
-So, In all I help them grow and I also grow by reading their code and I get to know about different approaches of the students to solve the same Problem.  
+So, In all I help them grow, and I also grow by reading their code, and So I get to know about different approaches of the students to solve the same Problem.  
 
 
 <div align="center">
